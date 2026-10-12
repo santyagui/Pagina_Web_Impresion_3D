@@ -1,17 +1,17 @@
 # Taller Digital
 
-Sitio estático de una sola página para presentar servicios de diseño CAD, modelado, impresión 3D y corte/grabado láser.
+Sitio estático de una sola página para presentar diseño CAD, impresión 3D y corte/grabado láser. Incluye un formulario que prepara una consulta por WhatsApp al 0999954357; no almacena datos ni carga archivos.
 
 ## Publicar
 
-El sitio no requiere instalación ni compilación. Publica el contenido de `dist/` como sitio estático.
+El sitio no requiere instalación ni compilación. GitHub Pages publica `index.html` desde la raíz de la rama `main`.
 
 ## Antes de difundir
 
 - Completar materiales, capacidades y compatibilidades reales.
-- Reemplazar los tres espacios de galería por proyectos propios.
-- Completar correo, teléfono, ubicación y horario.
-- Sustituir el enlace de correo provisional de `index.html`.
+- Incorporar fotos y descripciones de proyectos propios. Las ilustraciones actuales son conceptuales.
+- Completar ubicación, zona de entrega y horario.
+- Confirmar que el número 0999954357 esté activo en WhatsApp.
 - Actualizar nombre comercial si cambia el nombre provisional.
 
-El mecanizado CNC aparece únicamente como futura ampliación. La ilustración geométrica está identificada como conceptual y no representa un proyecto real.
+No se anuncian precios, plazos ni materiales específicos hasta que el taller los confirme.
